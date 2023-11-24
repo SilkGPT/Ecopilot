@@ -2,17 +2,19 @@
 
 Elixir Implement of copilot
 
-## Installation
+## 0. Brew & Elixir
 
 For `Darwin`, use `brew install` to quick-start.
 
 ```dash
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 brew install elixir
 mix new ecopilot
 mix deps.get
 ```
 
-## Beam and Run
+## 1. Clone & Beam
 
 ```dash
 git clone -j8 --depth 1 -b main git@github.com:SilkGPT/Ecopilot.git eco
