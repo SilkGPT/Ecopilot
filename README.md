@@ -12,7 +12,7 @@ mix new ecopilot
 mix deps.get
 ```
 
-## Build Beam and run
+## Beam and Run
 
 ```dash
 git clone -j8 --depth 1 -b main git@github.com:SilkGPT/Ecopilot.git eco
