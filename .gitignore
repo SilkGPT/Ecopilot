@@ -1,6 +1,8 @@
 .DS_Store
 .vscode/
 _*.ex
+*.lock
+*.format*
 /_build
 /cover
 /deps
