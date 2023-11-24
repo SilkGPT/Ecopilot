@@ -1,6 +1,6 @@
 # Ecopilot
 
-Elixir Implement of copilot
+Elixir Implement of Microsoft Copilot API
 
 ## 0. Brew & Elixir
 
